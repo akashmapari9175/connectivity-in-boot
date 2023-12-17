@@ -14,6 +14,7 @@ public class TestController {
 		int b= 20;
 		int c= 30;
 		int d = 40;
+		System.out.println("cheacking git uploaded");
 		return "this is just calculating sum is ading all -> "+(a+b+c+d);
 	}
 }
